@@ -3,7 +3,6 @@
 
 ### I work with IT at Sinqia/Santander company and I'm studying cloud computing. ☁️🖥️
 
-## ===================================================================================
 
 ### Credentials
 
@@ -20,13 +19,10 @@
 [![Linkedin](	https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/flávio-josé-gomes-da-silva-477a9143)
 
 
-## ===================================================================================
-
 ## Technologies I work with
 
 [![Excel](	https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)]() [![SQL](	https://img.shields.io/badge/Microsoft_SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)]() [![Post](	https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)]() [![Jekings](		https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=Jenkins&logoColor=white)]() [![Jira](		https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=Jira&logoColor=white)]()
 
-## ===================================================================================
 
 ## contact e-mail
 
