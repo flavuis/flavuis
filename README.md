@@ -9,11 +9,12 @@
 
 #### Azure AZ-900
 
-[![Azure](	https://img.shields.io/badge/Microsoft_Azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white)](https://www.credly.com/badges/aa81d96d-0174-438e-93f3-335b9dad3142/public_url)
+[![Azure](	https://img.shields.io/badge/Microsoft_Azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white)](https://www.credly.com/badges/94fd646b-94e7-491f-9537-d4fffcddcd0c/public_url)
 
 #### Azure SC-900
 
-[![Azure](	https://img.shields.io/badge/Microsoft_Azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white)](https://www.credly.com/badges/94fd646b-94e7-491f-9537-d4fffcddcd0c/public_url)
+[![Azure](	https://img.shields.io/badge/Microsoft_Azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white)](https://www.credly.com/badges/aa81d96d-0174-438e-93f3-335b9dad3142/public_url)
+
 
 ## My Linkedin
 
@@ -31,3 +32,5 @@
 ## contact e-mail
 
 flajota@yahoo.com.br
+
+
