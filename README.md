@@ -1,7 +1,7 @@
 
 ## Hello! I am Flávio! 👋
 
-### I work with IT at Sinqia/Santander company and I'm studying cloud computing. ☁️🖥️
+### I work with IT at tecnology company and I'm studying cloud computing. ☁️🖥️
 
 ===============================================================
 
